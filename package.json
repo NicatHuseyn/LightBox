@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "fslightbox": "^3.4.1",
+    "lightbox2": "^2.11.4"
+  }
+}
